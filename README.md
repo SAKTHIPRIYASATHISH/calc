@@ -27,6 +27,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ## OUTPUT:
+![out7 png](https://user-images.githubusercontent.com/119104282/213927165-825ad5e1-86ef-4da7-8176-561ea77a8abb.jpg)
 
 ## HTML VALIDATOR:
 
