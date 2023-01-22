@@ -30,6 +30,7 @@ Publish the website in the given URL.
 ![out7 png](https://user-images.githubusercontent.com/119104282/213927165-825ad5e1-86ef-4da7-8176-561ea77a8abb.jpg)
 
 ## HTML VALIDATOR:
+![valid2](https://user-images.githubusercontent.com/119104282/213927214-683ed751-135f-43e6-b825-598b23466eeb.png)
 
 ## RESULT:
 
